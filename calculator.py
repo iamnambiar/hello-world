@@ -11,4 +11,4 @@ elif c == 2:
     d = a - b
     print("\nDifference: ", d)
 else:
-    print('Error')
+    print('Error ')
